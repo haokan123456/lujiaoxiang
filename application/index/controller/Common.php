@@ -1,7 +1,7 @@
 <?php
 namespace app\index\controller;
-use app\index\controller\Common;
-class Index extends Common
+
+class Common
 {
     public function index()
     {    	
